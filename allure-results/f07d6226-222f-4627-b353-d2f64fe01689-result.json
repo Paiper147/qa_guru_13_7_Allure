@@ -1,0 +1,55 @@
+{
+  "uuid": "f07d6226-222f-4627-b353-d2f64fe01689",
+  "historyId": "880868a198dce136d42ce8d75e1c4eb4",
+  "testCaseId": "[engine:junit-jupiter]/[class:quru.qa.allure.SelenideTest]/[method:testGithubIssueSearch()]",
+  "testCaseName": "testGithubIssueSearch()",
+  "fullName": "quru.qa.allure.SelenideTest.testGithubIssueSearch",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:quru.qa.allure.SelenideTest]/[method:testGithubIssueSearch()]"
+    },
+    {
+      "name": "host",
+      "value": "KateBook"
+    },
+    {
+      "name": "thread",
+      "value": "18644@KateBook.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "quru.qa.allure.SelenideTest"
+    },
+    {
+      "name": "testClass",
+      "value": "quru.qa.allure.SelenideTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "testGithubIssueSearch"
+    },
+    {
+      "name": "suite",
+      "value": "quru.qa.allure.SelenideTest"
+    }
+  ],
+  "links": [],
+  "name": "testGithubIssueSearch()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1655960593776,
+  "stop": 1655960599806
+}
